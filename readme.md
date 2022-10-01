@@ -1,0 +1,1 @@
+This is the knowledge check for python sql guidelines
